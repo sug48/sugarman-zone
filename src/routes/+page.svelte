@@ -41,7 +41,7 @@ Welcome to the twisted mind of Mike Sugarman. <br/> <br /> A writer. A musician.
         margin: 2vh auto;
         padding: 2vh 2vw;
         border: solid white;
-        box-shadow: inset 0 0 0.1em 0.2em, 0 0 0.5em 0.5em;
+        box-shadow: inset 0 0 0.2em 0.2em, 0 0 0.5em 0.5em;
     }
 
     .metalButton {
